@@ -1,0 +1,21 @@
+.outer-box {
+    width: 600px;
+    height: 600px;
+    background-color: burlywood;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.inner-box {
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+}
+
+.div3 {
+    align-self: center;
+}
+
+.div4 {
+    align-self: flex-end;
+}
